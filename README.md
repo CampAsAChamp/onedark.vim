@@ -28,7 +28,7 @@ A dark Vim/Neovim color scheme for the GUI and 16/256/true-color terminals, base
 | special_grey | `#3B4048` | `238` | `7` |
 | vertsplit | `#3E4452` | `59` | `7` |
 
-![Color Swatches](https://raw.githubusercontent.com/joshdick/onedark.vim/main/img/color_swatches.svg)
+![Color Swatches](https://raw.githubusercontent.com/joshdick/onedark.vim/main/img/color_swatches.png)
 
 ## Breaking Changes
 
