@@ -5,7 +5,7 @@ A dark Vim/Neovim color scheme for the GUI and 16/256/true-color terminals, base
 ## Color Reference
 
 ![Color Reference](https://raw.githubusercontent.com/joshdick/onedark.vim/main/img/color_reference.png)
-![Color Swatches](img/color_swatches.png)
+![Color Swatches](img/color_swatches.svg)
 
 | Name | Hex | 256-color | 16-color |
 |------|-----|-----------|----------|
