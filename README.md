@@ -6,6 +6,28 @@ A dark Vim/Neovim color scheme for the GUI and 16/256/true-color terminals, base
 
 ![Color Reference](https://raw.githubusercontent.com/joshdick/onedark.vim/main/img/color_reference.png)
 
+| Name | Hex | 256-color | 16-color |
+|------|-----|-----------|----------|
+| red | `#E06C75` | `204` | `1` |
+| dark_red | `#BE5046` | `196` | `9` |
+| green | `#98C379` | `114` | `2` |
+| yellow | `#E5C07B` | `180` | `3` |
+| dark_yellow | `#D19A66` | `173` | `11` |
+| blue | `#61AFEF` | `39` | `4` |
+| purple | `#C678DD` | `170` | `5` |
+| cyan | `#56B6C2` | `38` | `6` |
+| white | `#ABB2BF` | `145` | `15` |
+| black | `#282C34` | `235` | `0` |
+| foreground | `#ABB2BF` | `145` | — |
+| background | `#282C34` | `235` | — |
+| comment_grey | `#5C6370` | `59` | `7` |
+| gutter_fg_grey | `#4B5263` | `238` | `8` |
+| cursor_grey | `#2C323C` | `236` | `0` |
+| visual_grey | `#3E4452` | `237` | `8` |
+| menu_grey | `#3E4452` | `237` | `7` |
+| special_grey | `#3B4048` | `238` | `7` |
+| vertsplit | `#3E4452` | `59` | `7` |
+
 ## Breaking Changes
 
 [Pull request #271](https://github.com/joshdick/onedark.vim/pull/271), merged July 11, 2021, contained several breaking changes, especially for 16-color users.
